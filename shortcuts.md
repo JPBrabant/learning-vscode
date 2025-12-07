@@ -93,18 +93,18 @@ Search for file by file name. It support fuzzy search and PascalCase search usin
 
 By default it show you recently opened files including opened tab.
 
-- `↵`        — Open the file and close **Quick open**
-- `Ctrl + ↵` — Open the file to the side and close **Quick open**
-- `→`        — Open the file and keep **Quick open** open
+- `Enter`        — Open the file and close **Quick open**
+- `Ctrl + Enter` — Open the file to the side and close **Quick open**
+- `→`            — Open the file and keep **Quick open** open
 
 ## Go to Line `CTRL + G`
 
 - Format `:rownum:colnum`
 - You can use nagative indexing to go to line at the end (-1 is the last line)
 - You can add those code at the end of a file with **Quick open**
-- If you don't press `↵` it only preview the location
+- If you don't press `Enter` it only preview the location
 
-## Go to symbol in the current file `CTRL + ⇧ + O`
+## Go to symbol in the current file `CTRL + Shift + O`
 
 - Format `@symbol`
 - Everything that has meaning in a programming language is a symbol (class, variable, object, ...)
