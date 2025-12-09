@@ -60,6 +60,7 @@ Keyboard shortcut      | Action
 `Ctrl + Shift + M`     | Problems (bottom bar)
 `Ctrl + Shift + U`     | Output (bottom bar)
 `Ctrl + è`             | Terminal (bottom bar)
+`Ctrl + J`             | Toggle bottom panel
 
 
 ## Others
