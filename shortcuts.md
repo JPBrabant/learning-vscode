@@ -39,11 +39,14 @@ Keyboard shortcut      | Action
 
 Keyboard shortcut      | Action
 -----------------------|--------------------------------------------------
+`Alt + Click`          | Insert cursor
 `Shift + Alt + i`      | Add cursors to line end
 `Ctrl + Alt + ↑/↓`     | Add cursor above/below
+`Ctrl + U`             | Undo last cursor operation
 `Ctrl + D`             | Select next occurrence of word
 `Ctrl + Shift + L`     | Select all occurrences of selected text
 `Shift + Alt + ←/→`    | Shrink/expand selection (code block)
+`Ctrl + L`             | Select current line
 
 
 ## UI
@@ -61,6 +64,21 @@ Keyboard shortcut      | Action
 `Ctrl + Shift + U`     | Output (bottom bar)
 `Ctrl + è`             | Terminal (bottom bar)
 `Ctrl + J`             | Toggle bottom panel
+
+
+## AI
+
+Keyboard shortcut      | Action
+-----------------------|--------------------------------------------------
+`Ctrl + i`             | Fix problem
+
+
+# Rich languages editing
+
+Keyboard shortcut      | Action
+-----------------------|--------------------------------------------------
+`Ctrl + .`             | Quick fix
+`Ctrl + K, Ctrl + X`   | Trim trailling white space
 
 
 ## Others
