@@ -70,7 +70,8 @@ Keyboard shortcut      | Action
 
 Keyboard shortcut      | Action
 -----------------------|--------------------------------------------------
-`Ctrl + i`             | Fix problem
+`Ctrl + i`             | Inline chat
+`Ctrl + Shift + i`     | Sidebar chat
 
 
 # Rich languages editing
