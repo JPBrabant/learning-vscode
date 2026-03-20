@@ -122,6 +122,11 @@ By default it show you recently opened files including opened tab.
 - You can use thise symbol with **Quick open**
 
 
+## Align columns
+
+The extension **Simple alignment** allow me to align stuff selected with multi-cursor into columns.
+
+
 # Converting keyboard shortcut from en_US to fr_CA
 
 en_US | fr_CA
