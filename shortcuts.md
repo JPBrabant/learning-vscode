@@ -82,6 +82,14 @@ Keyboard shortcut      | Action
 `Ctrl + K, Ctrl + X`   | Trim trailling white space
 
 
+# View
+
+Keyboard shortcut      | Action
+-----------------------|--------------------------------------------------
+`Ctrl + K, Z`          | Zen mode (full screen of the current tab)
+`F11`                  | Full screen (remove the Start menu bar)
+
+
 ## Others
 
 Keyboard shortcut      | Action
